@@ -1,0 +1,12 @@
+C:\Users\noname\source\repos\torg_project\torg_project\bin\Debug\torg_project.exe.config
+C:\Users\noname\source\repos\torg_project\torg_project\bin\Debug\torg_project.exe
+C:\Users\noname\source\repos\torg_project\torg_project\bin\Debug\torg_project.pdb
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.csprojAssemblyReference.cache
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.Form_login.resources
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.Properties.Resources.resources
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.csproj.GenerateResource.cache
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.csproj.CoreCompileInputs.cache
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.exe
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.pdb
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.Form_calculate.resources
+C:\Users\noname\source\repos\torg_project\torg_project\obj\Debug\torg_project.Form_worker.resources
